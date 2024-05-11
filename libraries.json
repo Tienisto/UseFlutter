@@ -1,0 +1,39 @@
+{
+  "State Management": [
+    "async_redux",
+    "bloc",
+    "get",
+    "get_it",
+    "injectable",
+    "mobx",
+    "provider",
+    "redux",
+    "refena",
+    "riverpod",
+    "signal",
+    "signals",
+    "watch_it"
+  ],
+  "Persistence": [
+    "cbl",
+    "drift",
+    "firebase_storage",
+    "flutter_secure_storage",
+    "hive",
+    "isar",
+    "objectbox",
+    "realm",
+    "sembast",
+    "shared_preferences",
+    "sqflite"
+  ],
+  "Networking": [
+    "chopper",
+    "dio",
+    "ferry",
+    "graphql",
+    "grpc",
+    "http",
+    "retrofit"
+  ]
+}

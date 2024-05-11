@@ -1,0 +1,163 @@
+{
+  "Google Pay": {
+    "android": "com.google.android.apps.nbu.paisa.user",
+    "ios": "1193357041"
+  },
+  "Google Earth": {
+    "android": "com.google.earth",
+    "ios": "293622097"
+  },
+  "Clash Royale": {
+    "android": "com.supercell.clashroyale",
+    "ios": "1053012308"
+  },
+  "PUBG MOBILE": {
+    "android": "com.tencent.ig",
+    "ios": "1330123889"
+  },
+  "Grab": {
+    "android": "com.grabtaxi.passenger",
+    "ios": "647268330"
+  },
+  "Binance": {
+    "android": "com.binance.dev",
+    "ios": "1436799971"
+  },
+  "Nubank": {
+    "android": "com.nu.production",
+    "ios": "814456780"
+  },
+  "Agoda": {
+    "android": "com.agoda.mobile.consumer",
+    "ios": "440676901"
+  },
+  "DiDi": {
+    "android": "com.didiglobal.passenger",
+    "ios": "1362398401"
+  },
+  "CoinMarketCap": {
+    "android": "com.coinmarketcap.android",
+    "ios": "1282107098"
+  },
+  "Upwork for Freelancers": {
+    "android": "com.upwork.android.apps.main",
+    "ios": "1446736499"
+  },
+  "Fastic": {
+    "android": "de.fastic.app",
+    "ios": "1459260306"
+  },
+  "Philips Hue": {
+    "android": "com.philips.lighting.hue2",
+    "ios": "1055281310"
+  },
+  "Finch": {
+    "homepage": "https://finchcare.com",
+    "android": "com.finch.finch",
+    "ios": "1528595748"
+  },
+  "Google Ads": {
+    "android": "com.google.android.apps.adwords",
+    "ios": "1037457231"
+  },
+  "About You": {
+    "android": "de.aboutyou.mobile.app",
+    "ios": "985244644"
+  },
+  "eBay Motors": {
+    "android": "com.ebay.motorsapp",
+    "ios": "1456156090"
+  },
+  "ElsterSecure": {
+    "android": "de.elster.elstersecure.app",
+    "ios": "1579060331"
+  },
+  "My BMW": {
+    "android": "de.bmw.connected.mobile20.row",
+    "ios": "1519457734"
+  },
+  "Google Play Console": {
+    "android": "com.google.android.apps.playconsole"
+  },
+  "Blend: AI Background Eraser": {
+    "android": "to.blend.mobile_app",
+    "ios": "1583805102"
+  },
+  "Immich": {
+    "homepage": "https://immich.app",
+    "source": "https://github.com/immich-app/immich",
+    "android": "app.alextran.immich",
+    "ios": "1613945652",
+    "libraries": {
+      "State Management": [
+        "riverpod"
+      ],
+      "Persistence": [
+        "isar"
+      ],
+      "Networking": [
+        "http"
+      ]
+    }
+  },
+  "UnipolMove": {
+    "homepage": "https://www.unipolmove.it/app-mobile/unipol-move",
+    "android": "it.unipolsai.move",
+    "ios": "1609074315"
+  },
+  "LocalSend": {
+    "homepage": "https://localsend.org",
+    "source": "https://github.com/localsend/localsend",
+    "android": "org.localsend.localsend_app",
+    "ios": "1661733229",
+    "windows": "https://localsend.org/download",
+    "macos": "1661733229",
+    "linux": "https://localsend.org/download",
+    "libraries": {
+      "State Management": [
+        "refena"
+      ],
+      "Persistence": [
+        "shared_preferences"
+      ],
+      "Networking": [
+        "dio"
+      ]
+    }
+  },
+  "Bling: Taschengeld & Mobilfunk": {
+    "homepage": "https://www.bling.de",
+    "android": "de.blingcard",
+    "ios": "1575241301"
+  },
+  "Notan": {
+    "homepage": "https://tienisto.com/notan",
+    "android": "de.tiendonam.notan",
+    "ios": "1487338991",
+    "libraries": {
+      "State Management": [
+        "refena"
+      ],
+      "Persistence": [
+        "shared_preferences"
+      ],
+      "Networking": [
+        "http"
+      ]
+    }
+  },
+  "AuthPass": {
+    "homepage": "https://authpass.app",
+    "source": "https://github.com/authpass/authpass",
+    "android": "design.codeux.authpass",
+    "ios": "1479297675",
+    "windows": "https://apps.microsoft.com/detail/9p5n6znpsfbn",
+    "macos": "1478552452",
+    "linux": "https://authpass.app",
+    "libraries": {
+      "Networking": [
+        "http"
+      ]
+    }
+  }
+}
