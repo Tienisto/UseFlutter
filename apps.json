@@ -1,75 +1,96 @@
 {
   "Google Pay": {
+    "homepage": "https://pay.google.com/about",
     "country": "united-states",
     "android": "com.google.android.apps.nbu.paisa.user",
     "ios": "1193357041"
   },
   "Google Earth": {
+    "homepage": "https://earth.google.com",
     "country": "united-states",
     "android": "com.google.earth",
     "ios": "293622097"
   },
   "Clash Royale": {
+    "homepage": "https://clashroyale.com",
     "country": "finland",
     "android": "com.supercell.clashroyale",
     "ios": "1053012308"
   },
   "PUBG MOBILE": {
+    "homepage": "https://www.pubgmobile.com",
     "country": "china",
     "android": "com.tencent.ig",
     "ios": "1330123889"
   },
   "Grab": {
+    "homepage": "https://www.grab.com",
     "country": "singapore",
     "android": "com.grabtaxi.passenger",
     "ios": "647268330"
   },
   "Google Classroom": {
+    "homepage": "https://classroom.google.com",
     "country": "united-states",
     "android": "com.google.android.apps.classroom",
     "ios": "924620788"
   },
   "Binance": {
+    "homepage": "https://www.binance.com",
     "country": "china",
     "android": "com.binance.dev",
     "ios": "1436799971"
   },
   "Nubank": {
+    "homepage": "https://nubank.com.br",
     "country": "brazil",
     "android": "com.nu.production",
     "ios": "814456780"
   },
   "Tata Neu": {
+    "homepage": "https://www.tatadigital.com",
     "country": "india",
     "android": "com.tatadigital.tcp",
     "ios": "1584669293"
   },
   "Agoda": {
+    "homepage": "https://www.agoda.com",
     "country": "singapore",
     "android": "com.agoda.mobile.consumer",
     "ios": "440676901"
   },
+  "gov.br": {
+    "homepage": "https://www.gov.br",
+    "country": "brazil",
+    "android": "br.gov.meugovbr",
+    "ios": "1506827551"
+  },
   "4 Pics 1 Word": {
+    "homepage": "https://lotum-legal.web.app",
     "country": "germany",
     "android": "de.lotum.whatsinthefoto.us",
     "ios": "595558452"
   },
   "DiDi Rider": {
+    "homepage": "https://www.didiglobal.com",
     "country": "china",
     "android": "com.didiglobal.passenger",
     "ios": "1362398401"
   },
   "CoinMarketCap": {
+    "homepage": "https://coinmarketcap.com",
     "country": "united-states",
     "android": "com.coinmarketcap.android",
     "ios": "1282107098"
   },
   "Upwork for Freelancers": {
+    "homepage": "https://www.upwork.com",
     "country": "united-states",
     "android": "com.upwork.android.apps.main",
     "ios": "1446736499"
   },
   "Fastic": {
+    "homepage": "https://fastic.com",
     "country": "germany",
     "android": "de.fastic.app",
     "ios": "1459260306"
@@ -81,9 +102,22 @@
     "ios": "1437157286"
   },
   "ZaloPay": {
+    "homepage": "https://zalopay.vn",
     "country": "vietnam",
     "android": "vn.com.vng.zalopay",
     "ios": "1112407590"
+  },
+  "Tiki": {
+    "homepage": "https://tiki.vn",
+    "country": "vietnam",
+    "android": "vn.tiki.app.tikiandroid",
+    "ios": "958100553"
+  },
+  "GoPay": {
+    "homepage": "https://gopay.co.id",
+    "country": "indonesia",
+    "android": "com.gojek.gopay",
+    "ios": "6446321594"
   },
   "PLN Mobile": {
     "homepage": "https://layanan.pln.co.id/pln-mobile",
@@ -92,6 +126,7 @@
     "ios": "1299581030"
   },
   "Philips Hue": {
+    "homepage": "https://www.philips-hue.com",
     "country": "netherlands",
     "android": "com.philips.lighting.hue2",
     "ios": "1055281310"
@@ -103,16 +138,19 @@
     "ios": "1528595748"
   },
   "Google Ads": {
+    "homepage": "https://ads.google.com",
     "country": "united-states",
     "android": "com.google.android.apps.adwords",
     "ios": "1037457231"
   },
   "About You": {
+    "homepage": "https://www.aboutyou.de",
     "country": "germany",
     "android": "de.aboutyou.mobile.app",
     "ios": "985244644"
   },
   "eBay Motors": {
+    "homepage": "https://www.ebay.com/motors",
     "country": "united-states",
     "android": "com.ebay.motorsapp",
     "ios": "1456156090"
@@ -124,28 +162,57 @@
     "ios": "1534342254"
   },
   "Media Markt Deutschland": {
+    "homepage": "https://www.mediamarkt.de",
     "country": "germany",
     "android": "com.media.markt",
     "ios": "386304604"
   },
   "ElsterSecure": {
+    "homepage": "https://www.elster.de",
     "country": "germany",
     "android": "de.elster.elstersecure.app",
     "ios": "1579060331"
   },
   "My BMW": {
+    "homepage": "https://www.bmw.com",
     "country": "germany",
     "android": "de.bmw.connected.mobile20.row",
     "ios": "1519457734"
   },
+  "Birthday Calendar": {
+    "homepage": "https://birthday-calendar.app",
+    "country": "germany",
+    "android": "dev.cwolf.birthdaycalendar",
+    "ios": "1508329346"
+  },
   "Google Play Console": {
+    "homepage": "https://play.google.com/console",
     "country": "united-states",
     "android": "com.google.android.apps.playconsole"
   },
   "Blend: AI Background Eraser": {
+    "homepage": "https://www.blendnow.com",
     "country": "india",
     "android": "to.blend.mobile_app",
     "ios": "1583805102"
+  },
+  "Sözcü Gazetesi - Haberler": {
+    "homepage": "https://www.sozcu.com.tr",
+    "country": "turkey",
+    "android": "org.studionord.sozcu.gazete",
+    "ios": "405952318"
+  },
+  "Smart-ID": {
+    "homepage": "https://www.smart-id.com",
+    "country": "estonia",
+    "android": "com.smart_id",
+    "ios": "1188304729"
+  },
+  "SAS – Scandinavian Airlines": {
+    "homepage": "https://www.flysas.com",
+    "country": "sweden",
+    "android": "se.sas.android",
+    "ios": "605727126"
   },
   "Immich": {
     "homepage": "https://immich.app",
@@ -192,11 +259,31 @@
       ]
     }
   },
+  "freeCodeCamp": {
+    "homepage": "https://www.freecodecamp.org",
+    "country": "united-states",
+    "android": "org.freecodecamp",
+    "ios": "6446908151"
+  },
   "Bling: Taschengeld & Mobilfunk": {
     "homepage": "https://www.bling.de",
     "country": "germany",
     "android": "de.blingcard",
     "ios": "1575241301"
+  },
+  "OÖNachrichten": {
+    "homepage": "https://www.nachrichten.at",
+    "country": "austria",
+    "android": "de.fcms.webapp.oon",
+    "ios": "568036903"
+  },
+  "Schulplaner: Sharezone": {
+    "homepage": "https://sharezone.net",
+    "country": "germany",
+    "android": "de.codingbrain.sharezone",
+    "ios": "1434868489",
+    "macos": "1434868489",
+    "web": "https://web.sharezone.net"
   },
   "Notan": {
     "homepage": "https://tienisto.com/notan",
@@ -208,6 +295,7 @@
         "refena"
       ],
       "Persistence": [
+        "objectbox",
         "shared_preferences"
       ],
       "Networking": [
