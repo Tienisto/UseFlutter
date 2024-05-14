@@ -1,91 +1,156 @@
 {
   "Google Pay": {
+    "country": "united-states",
     "android": "com.google.android.apps.nbu.paisa.user",
     "ios": "1193357041"
   },
   "Google Earth": {
+    "country": "united-states",
     "android": "com.google.earth",
     "ios": "293622097"
   },
   "Clash Royale": {
+    "country": "finland",
     "android": "com.supercell.clashroyale",
     "ios": "1053012308"
   },
   "PUBG MOBILE": {
+    "country": "china",
     "android": "com.tencent.ig",
     "ios": "1330123889"
   },
   "Grab": {
+    "country": "singapore",
     "android": "com.grabtaxi.passenger",
     "ios": "647268330"
   },
+  "Google Classroom": {
+    "country": "united-states",
+    "android": "com.google.android.apps.classroom",
+    "ios": "924620788"
+  },
   "Binance": {
+    "country": "china",
     "android": "com.binance.dev",
     "ios": "1436799971"
   },
   "Nubank": {
+    "country": "brazil",
     "android": "com.nu.production",
     "ios": "814456780"
   },
+  "Tata Neu": {
+    "country": "india",
+    "android": "com.tatadigital.tcp",
+    "ios": "1584669293"
+  },
   "Agoda": {
+    "country": "singapore",
     "android": "com.agoda.mobile.consumer",
     "ios": "440676901"
   },
-  "DiDi": {
+  "4 Pics 1 Word": {
+    "country": "germany",
+    "android": "de.lotum.whatsinthefoto.us",
+    "ios": "595558452"
+  },
+  "DiDi Rider": {
+    "country": "china",
     "android": "com.didiglobal.passenger",
     "ios": "1362398401"
   },
   "CoinMarketCap": {
+    "country": "united-states",
     "android": "com.coinmarketcap.android",
     "ios": "1282107098"
   },
   "Upwork for Freelancers": {
+    "country": "united-states",
     "android": "com.upwork.android.apps.main",
     "ios": "1446736499"
   },
   "Fastic": {
+    "country": "germany",
     "android": "de.fastic.app",
     "ios": "1459260306"
   },
+  "Yango": {
+    "homepage": "https://yango.com",
+    "country": "russia",
+    "android": "com.yandex.yango",
+    "ios": "1437157286"
+  },
+  "ZaloPay": {
+    "country": "vietnam",
+    "android": "vn.com.vng.zalopay",
+    "ios": "1112407590"
+  },
+  "PLN Mobile": {
+    "homepage": "https://layanan.pln.co.id/pln-mobile",
+    "country": "indonesia",
+    "android": "com.icon.pln123",
+    "ios": "1299581030"
+  },
   "Philips Hue": {
+    "country": "netherlands",
     "android": "com.philips.lighting.hue2",
     "ios": "1055281310"
   },
   "Finch": {
     "homepage": "https://finchcare.com",
+    "country": "united-states",
     "android": "com.finch.finch",
     "ios": "1528595748"
   },
   "Google Ads": {
+    "country": "united-states",
     "android": "com.google.android.apps.adwords",
     "ios": "1037457231"
   },
   "About You": {
+    "country": "germany",
     "android": "de.aboutyou.mobile.app",
     "ios": "985244644"
   },
   "eBay Motors": {
+    "country": "united-states",
     "android": "com.ebay.motorsapp",
     "ios": "1456156090"
   },
+  "İstanbul Senin": {
+    "homepage": "https://istanbulsenin.istanbul",
+    "country": "turkey",
+    "android": "com.tr.gov.ibb.istanbulsenin",
+    "ios": "1534342254"
+  },
+  "Media Markt Deutschland": {
+    "country": "germany",
+    "android": "com.media.markt",
+    "ios": "386304604"
+  },
   "ElsterSecure": {
+    "country": "germany",
     "android": "de.elster.elstersecure.app",
     "ios": "1579060331"
   },
   "My BMW": {
+    "country": "germany",
     "android": "de.bmw.connected.mobile20.row",
     "ios": "1519457734"
   },
   "Google Play Console": {
+    "country": "united-states",
     "android": "com.google.android.apps.playconsole"
   },
   "Blend: AI Background Eraser": {
+    "country": "india",
     "android": "to.blend.mobile_app",
     "ios": "1583805102"
   },
   "Immich": {
     "homepage": "https://immich.app",
     "source": "https://github.com/immich-app/immich",
+    "country": "united-states",
     "android": "app.alextran.immich",
     "ios": "1613945652",
     "libraries": {
@@ -102,11 +167,13 @@
   },
   "UnipolMove": {
     "homepage": "https://www.unipolmove.it/app-mobile/unipol-move",
+    "country": "italy",
     "android": "it.unipolsai.move",
     "ios": "1609074315"
   },
   "LocalSend": {
     "homepage": "https://localsend.org",
+    "country": "germany",
     "source": "https://github.com/localsend/localsend",
     "android": "org.localsend.localsend_app",
     "ios": "1661733229",
@@ -127,11 +194,13 @@
   },
   "Bling: Taschengeld & Mobilfunk": {
     "homepage": "https://www.bling.de",
+    "country": "germany",
     "android": "de.blingcard",
     "ios": "1575241301"
   },
   "Notan": {
     "homepage": "https://tienisto.com/notan",
+    "country": "germany",
     "android": "de.tiendonam.notan",
     "ios": "1487338991",
     "libraries": {
@@ -148,6 +217,7 @@
   },
   "AuthPass": {
     "homepage": "https://authpass.app",
+    "country": "austria",
     "source": "https://github.com/authpass/authpass",
     "android": "design.codeux.authpass",
     "ios": "1479297675",
